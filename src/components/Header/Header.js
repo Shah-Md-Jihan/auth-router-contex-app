@@ -17,6 +17,7 @@ const Header = () => {
             <div className="navbar bg-primary text-primary-content">
                 <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
                 <Link className="mr-10" to="/">Home</Link>
+                <Link className="mr-10" to="/orders">Orders</Link>
                 <Link className="mr-10" to="/login">Sign In</Link>
                 <Link className="mr-10" to="/register">Sign Up</Link>
 
